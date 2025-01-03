@@ -12,5 +12,5 @@ This repository holds the `R` script needed (`analysis_ramirez_mejia_etal.R`) an
 
 __File description:__
 
-- `analysis_ramirez_mejia_etal.R`: `R` reproducing the entire data analysis.
+- `analysis_ramirez_mejia_etal.R`: `R` script reproducing the entire data analysis.
 - `supplementary_material_S1.qmd`: file for generating _Appendix S1_.
