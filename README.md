@@ -13,5 +13,6 @@ This repository holds the `R` script needed (`analysis_ramirez_mejia_etal.R`) an
 __File description:__
 
 - `analysis_ramirez_mejia_etal.R`: `R` script reproducing the entire data analysis.
+- `climatic_predictors.R`: `R` script for generating distance matrices to fit Gaussian processes regression and procedures for estimating rainfall predictors.
 - `supplementary_material_S1.qmd`: file for generating _Appendix S1_.
-- `climatic_predictors.R`: `R` script for generating distance matrices that fit Gaussian processes regression and procedures for estimating rainfall predictors.
+
